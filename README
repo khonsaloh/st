@@ -3,6 +3,10 @@ st - simple terminal
 st is a simple terminal emulator for X which sucks less.
 
 
+Tips
+___________
+install symbola font even if you're like normal people and don't want color emojis on the terminal 'cause it may crash.
+
 Requirements
 ------------
 In order to build st you need the Xlib header files.
